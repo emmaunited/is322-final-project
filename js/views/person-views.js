@@ -5,6 +5,9 @@ app.views.Person = Backbone.View.extend({
 	attributes: function() {
 		return {
 			class: 'person ' + this.model.get('type')
-		}
-	}
+		};
+	},
+
+
+	template: _.template($('#person-template').html()),
 });

@@ -147,18 +147,21 @@ directoryData = [
 			"Rosario",
 			"1-794-139-8776",
 			"nigerian"
+			"$201.92"
 		],
 		[
 			"Mercedes",
 			"Clements",
 			"1-509-194-2264",
 			"mexican"
+			"$249.11"
 		],
 		[
 			"Tanisha",
 			"Mack",
 			"1-166-519-2254",
 			"nigerian"
+			"$180.41"
 		],
 		[
 			"Lillian",
@@ -171,6 +174,7 @@ directoryData = [
 			"Ramirez",
 			"1-927-278-9083",
 			"jamacian"
+			"$351.38"
 		],
 		[
 			"Sopoline",

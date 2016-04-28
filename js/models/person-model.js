@@ -35,7 +35,7 @@ app.models.Person = Backbone.Model.extend({
 		}
 	}
 	
-});
+};
 
 app.collections.People = Backbone.Collection.extend({
 	
@@ -45,5 +45,4 @@ app.collections.People = Backbone.Collection.extend({
 		return person.get('lastname');
 
 	}
-	
-});
+))};

@@ -5,182 +5,183 @@ directoryData = [
 		"firstname",
 		"lastname",
 		"number ",
-		"topcuisine"
-		"maxspent"
+		"topcuisine",
+		"maxspent",
 	],
 	"data": [
 		[
 			"Lawrence",
 			"Holmes",
 			"1-528-815-4611",
-			"mexican"
-			"$590.73"
+			"mexican",
+			"$590.73",
 		],
 		[
 			"Olympia",
 			"Powell",
 			"1-596-364-9378",
-			"thai"
-			"$883.00"
+			"thai",
+			"$883.00",
 		],
 		[
 			"Josiah",
 			"Caldwell",
 			"1-574-419-6301",
-			"thai"
-			"$824.00"
+			"thai",
+			"$824.00",
 		],
 		[
 			"Maya",
 			"Flynn",
 			"1-847-845-7704",
-			"chinese"
-			"$911.00"
+			"chinese",
+			"$911.00",
 		],
 		[
 			"Selma",
 			"Harris",
 			"1-595-650-9351",
-			"vietnamese"
-			"$072.00"
+			"vietnamese",
+			"$072.00",
 		],
 		[
 			"Jillian",
 			"Durham",
 			"1-632-125-9236",
-			"nigerian"
-			"$541.00"
+			"nigerian",
+			"$541.00",
 		],
 		[
 			"Carla",
 			"Wilkerson",
 			"1-420-365-9576",
-			"nigerian"
-			"$339.00"
+			"nigerian",
+			"$339.00",
 		],
 		[
 			"Alana",
 			"Booth",
 			"1-461-277-3766",
-			"thai"
-			"$479.34"
+			"thai",
+			"$479.34",
 		],
 		[
 			"Cecilia",
 			"Walters",
 			"1-601-964-9574",
-			"mexican"
-			"$128.29"
+			"mexican",
+			"$128.29",
 		],
 		[
 			"Gabriel",
 			"Frazier",
 			"1-368-902-5809",
-			"jamaican"
-			"$439.39"
+			"jamaican",
+			"$439.39",
 		],
 		[
 			"Camden",
 			"Rojas",
 			"1-950-999-2962",
-			"jamaican"
-			"$476.06"
+			"jamaican",
+			"$476.06",
 		],
 		[
 			"Halee",
 			"Medina",
 			"1-464-689-3276",
-			"jamaican"
-			"$178.54"
+			"jamaican",
+			"$178.54",
 		],
 		[
 			"Cooper",
 			"Cummings",
 			"1-864-401-1699",
-			"vietnamese"
-			"$282.90"
+			"vietnamese",
+			"$282.90",
 		],
 		[
 			"Kai",
 			"Alvarado",
 			"1-932-442-1831",
-			"nigerian"
-			"$309.73"
+			"nigerian",
+			"$309.73",
 		],
 		[
 			"Holly",
 			"Pacheco",
 			"1-713-896-9740",
-			"thai"
-			"$165.75"
+			"thai",
+			"$165.75",
 		],
 		[
 			"Ocean",
 			"Jimenez",
 			"1-849-846-5959",
-			"thai"
-			"$375.30"
+			"thai",
+			"$375.30",
 		],
 		[
 			"Illiana",
 			"Hunt",
 			"1-282-636-3339",
-			"thai"
-			"$112.52"
+			"thai",
+			"$112.52",
 		],
 		[
 			"Vincent",
 			"Hayden",
 			"1-921-413-2162",
-			"thai"
-			"$428.81"
+			"thai",
+			"$428.81",
 		],
 		[
 			"Leilani",
 			"Brewer",
 			"1-506-457-2930",
-			"jamaican"
-			"$214.89"
+			"jamaican",
+			"$214.89",
 		],
 		[
 			"Courtney",
 			"Rosario",
 			"1-794-139-8776",
-			"nigerian"
-			"$201.92"
+			"nigerian",
+			"$201.92",
 		],
 		[
 			"Mercedes",
 			"Clements",
 			"1-509-194-2264",
-			"mexican"
-			"$249.11"
+			"mexican",
+			"$249.11",
 		],
 		[
 			"Tanisha",
 			"Mack",
 			"1-166-519-2254",
-			"nigerian"
-			"$180.41"
+			"nigerian",
+			"$180.41",
 		],
 		[
 			"Lillian",
 			"Mays",
 			"1-916-383-8456",
-			"vietnamese"
+			"vietnamese",
+			"$121.38",
 		],
 		[
 			"Jennifer",
 			"Ramirez",
 			"1-927-278-9083",
-			"jamaican"
-			"$351.38"
+			"jamaican",
+			"$351.38",
 		],
 		[
 			"Sopoline",
 			"Cobb",
 			"1-353-427-4773",
-			"nigerian"
+			"nigerian",
 		],
 		[
 			"Nolan",
@@ -633,4 +634,4 @@ directoryData = [
 			"chinese"
 		]
 	]
-}
+}]

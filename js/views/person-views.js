@@ -8,6 +8,9 @@ app.views.Person = Backbone.View.extend({
 		};
 	},
 
+	events: {
+		'click .list-header': 'showDetails'
+	},
 
 	template: _.template($('#person-template').html()),
 
@@ -15,6 +18,11 @@ app.views.Person = Backbone.View.extend({
 		this.$el.html(this.template(this.model.toJSON()));
 		return this;
 	},
+
+	showDetails: function(e) {
+		$(e.target).toggleClass('active');
+		$(e.target).siblings('.details').slideToggle('fast');
+	}
 
 	app.views.People = Backbone.View.extend({
 

@@ -13,29 +13,33 @@ app.models.Person = Backbone.Model.extend({
 		var self = this;
 		if(this.get('cuisine') == 'mexican') {
 			self.set('type', 'mexican');
-
+		}
 		if(this.get('cuisine') == 'nigerian') {
 			self.set('type', 'nigerian');
+		}
 
 		if(this.get('cuisine') == 'thai') {
 			self.set('type', 'thai');
+		}
 
 		if(this.get('cuisine') == 'chinese') {
 			self.set('type', 'chinese');
-
+		}
 
 		if(this.get('cuisine') == 'vietnamese') {
 			self.set('type', 'vietnamese');
+		}
 
 		if(this.get('cuisine') == 'jamaican') {
 			self.set('type', 'jamaican');
-
-		} else {
-			self.set('type', 'No Preference');
 		}
+
+			else {
+				self.set('type', 'No Preference');
+			}
 	}
 	
-};
+});
 
 app.collections.People = Backbone.Collection.extend({
 	
@@ -43,6 +47,6 @@ app.collections.People = Backbone.Collection.extend({
 	
 	comparator: function(person) {
 		return person.get('lastname');
-
 	}
-))};
+});
+
